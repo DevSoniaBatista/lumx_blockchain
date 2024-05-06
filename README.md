@@ -34,25 +34,25 @@ Função para o proprietário do contrato retirar os fundos acumulados no contra
 Permite a criação de um novo leilão para um item específico.
 O criador do leilão pode especificar o nome, preço inicial e duração do leilão.
 O item a ser leiloado é representado por um token ERC721.
-function bid():
++ function bid():
 Usada pelos licitantes para fazer lances em um leilão.
 Eles devem fornecer uma quantia de Ether maior do que o lance atual mais alto.
-function endAuction():
++ function endAuction():
 Encerra um leilão depois que o tempo de duração especificado expira.
 Determina o licitante vencedor e transfere o item leiloado para ele.
-function getAllAuctions():
++ function getAllAuctions():
 Retorna uma lista de todos os itens atualmente em leilão.
-function getOwnerAuction(): 
++ function getOwnerAuction(): 
 Retorna uma lista de todos os itens em leilão que pertencem a um determinado endereço de carteira.
-function createToken():
++ function createToken():
 Permite a criação de um novo token ERC721.
 O proprietário do contrato pode especificar o nome, valor inicial e metadados do token.
-function purchaseToken():
++ function purchaseToken():
 Usada para comprar um token ERC721 disponível.
 O comprador deve fornecer o valor especificado e recebe o token após a compra.
-function getAllTokens():
++ function getAllTokens():
 Retorna uma lista de todos os tokens ERC721 criados.
-function getOwnerTokens():
++ function getOwnerTokens():
 Retorna uma lista de todos os tokens ERC721 que pertencem a um determinado endereço de carteira.
 
 
