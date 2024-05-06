@@ -27,10 +27,10 @@ forge script script/AuctionCrypto.s.sol:AuctionCryptoScript --rpc-url chiliz --b
 Contrato AuctionCrypto
 O contrato AuctionCrypto é uma implementação em Solidity de um sistema de leilão e criação de tokens ERC721. Ele permite a criação e gerenciamento de leilões para itens específicos, bem como a criação e compra de tokens.
 
-Funcionalidades Principais:
-function withdraw():
+### Funcionalidades Principais:
++ function withdraw():
 Função para o proprietário do contrato retirar os fundos acumulados no contrato.
-function createAuction():
++ function createAuction():
 Permite a criação de um novo leilão para um item específico.
 O criador do leilão pode especificar o nome, preço inicial e duração do leilão.
 O item a ser leiloado é representado por um token ERC721.
