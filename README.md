@@ -1,5 +1,5 @@
-# Contrato Inteligente de Leilão e Tokens
 # Crypto Genius - OLY
+## Contrato AuctionCrypto - Contrato Inteligente de Leilão e Tokens
 Este é um contrato inteligente desenvolvido em Solidity, que oferece funcionalidades para criar leilões e tokens para venda, facilitando a interação e transação de ativos digitais na blockchain. Pode ser feito deploy em qualquer EVM compativel.
 
 ## Funcionalidades
