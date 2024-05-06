@@ -17,7 +17,7 @@ O contrato permite pagamentos em Ethereum para arrematar itens em leilões ou co
 
 Para utilizar o contrato AuctionCrypto, siga estas etapas:
 1. **Deploy do Contrato**: Deploy o contrato na blockchain Ethereum usando uma plataforma de sua escolha, como Remix ou executar esse projeto no Foundry.
-### Exemplo de como executar o Deploy na rede chiliz
+Exemplo de como executar o Deploy na rede chiliz
 forge script script/AuctionCrypto.s.sol:AuctionCryptoScript --rpc-url chiliz --broadcast
  2. **Interagir com o Contrato**: Utilize uma carteira Ethereum compatível, como MetaMask, para interagir com o contrato. Isso inclui criar novos leilões, fazer lances em leilões existentes, criar tokens e comprar tokens disponíveis.
 3. **Gerenciar Transações**: Ao participar de leilões ou comprar tokens, certifique-se de ter saldo suficiente em sua carteira Ethereum. Além disso, esteja ciente das taxas associadas às transações, incluindo taxas de gás e taxas de serviço do contrato.
