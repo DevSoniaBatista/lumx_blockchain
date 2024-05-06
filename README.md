@@ -24,7 +24,7 @@ forge script script/AuctionCrypto.s.sol:AuctionCryptoScript --rpc-url chiliz --b
 4. **Monitorar Atividades**: Acompanhe os eventos emitidos pelo contrato para monitorar a atividade dos leilões e transações de tokens. Isso inclui eventos como a criação de novos leilões, lances em leilões, encerramento de leilões e compra de tokens.
 
 ## Detalhe Técnico
-Contrato AuctionCrypto
+### Contrato AuctionCrypto
 O contrato AuctionCrypto é uma implementação em Solidity de um sistema de leilão e criação de tokens ERC721. Ele permite a criação e gerenciamento de leilões para itens específicos, bem como a criação e compra de tokens.
 
 ### Funcionalidades Principais:
