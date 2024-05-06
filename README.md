@@ -62,27 +62,27 @@ Para mais informações, entre em contato com hackateam4@gmail.com.
 
 
 ## Equipe CryptoGenius
-Dayana Mazini
+### Dayana Mazini
 UX/UI, Administradora, empreendedora com experiência no desenvolvimento de negócios inovadores nas áreas de finanças, educação e de transformação social.
-LinkedIn: https://www.linkedin.com/in/dayanamazini/ 
-Mazini.dayana@gmail.com
+> LinkedIn: https://www.linkedin.com/in/dayanamazini/ 
+>> mazini.dayana@gmail.com
 
-Aline Silva
+### Aline Silva
 Empreendedora, Atleta Olimpica, fundadora da Mempodera e da Firneza Token.
-https://www.linkedin.com/in/influencer-aline-silva-oly
-alinedaluta@gmail.com
+> https://www.linkedin.com/in/influencer-aline-silva-oly
+>> alinedaluta@gmail.com
 
-Larissa Montefusco
+### Larissa Montefusco
 Técnica em Eletrônica, Graduanda em Engenharia Eletrotécnica e de Computadores / Developer IoT e protocolos de comunicação, Django Python
-https://www.linkedin.com/in/larissa-montefusco/
-larissa.montefusco7@gmail.com
+> https://www.linkedin.com/in/larissa-montefusco/
+>> larissa.montefusco7@gmail.com
 
-Sonia Mara Batista
+### Sonia Mara Batista
 Dev Blockchain, Solidity, Web3 
-LinkedIn: https://www.linkedin.com/in/soniamarabatista/
-dev.soniabatista@gmail.com
+> LinkedIn: https://www.linkedin.com/in/soniamarabatista/
+>> dev.soniabatista@gmail.com
 
-Matheus Oliveira
+### Matheus Oliveira
 Desenvolvedor Flutter,  Fundador da Eita Rolê, empreendedor com experiência em desenvolvimento e impressão 3D.
-LinkedIn: https://www.linkedin.com/in/devmatheusoliveira/
-matheusoliveira.workmso@gmail.com
+> LinkedIn: https://www.linkedin.com/in/devmatheusoliveira/
+>> matheusoliveira.workmso@gmail.com
